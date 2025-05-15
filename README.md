@@ -1,4 +1,4 @@
-# Java Multithreading Hands-on 🚀
+#Java-Multithreading-Interview-Prep 🚀
 
 This project demonstrates core multithreading concepts in Java using practical, hands-on examples.
 
